@@ -14,12 +14,18 @@ Visualizes relative sales across various regions and countries, identifying high
 -Enables dynamic filtering of shipping modes.
 -Allows stakeholders to select custom date ranges for focused analysis.
 
-Key Insights Derived 🔍
-1️⃣ Bookcases emerged as the top-performing sub-category, contributing 21.59% of total sales (273K).
-2️⃣ France led the countries with the highest sales at 348K (27.48%), while Denmark had the lowest at 4K.
-3️⃣ Sales showed an upward trend starting July 2018, with a significant 31.6% increase in Q3 2018.
-4️⃣ The Central Region recorded the highest quantity sold (8498 units), followed by the North and South Regions.
-5️⃣ The sub-category Labels had the lowest sales at 5.6K, showing opportunities for improvement.
+## **Key Insights Derived 🔍**  
+
+1️⃣ **Bookcases** emerged as the **top-performing sub-category**, contributing **21.59%** of total sales (**273K**).  
+
+2️⃣ **France** led the countries with the **highest sales** at **348K** (**27.48%**), while **Denmark** had the lowest at **4K**.  
+
+3️⃣ Sales showed an **upward trend** starting **July 2018**, with a significant **31.6% increase** in **Q3 2018**.  
+
+4️⃣ The **Central Region** recorded the **highest quantity sold** (**8,498 units**), followed by the **North** and **South Regions**.  
+
+5️⃣ The sub-category **Labels** had the **lowest sales** at **5.6K**, highlighting opportunities for improvement.  
+
 
 # **Sample Business Questions to Explore**  
 
