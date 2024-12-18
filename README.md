@@ -14,3 +14,27 @@ Visualizes relative sales across various regions and countries, identifying high
 -Enables dynamic filtering of shipping modes.
 -Allows stakeholders to select custom date ranges for focused analysis.
 
+Key Insights Derived 🔍
+1️⃣ Bookcases emerged as the top-performing sub-category, contributing 21.59% of total sales (273K).
+2️⃣ France led the countries with the highest sales at 348K (27.48%), while Denmark had the lowest at 4K.
+3️⃣ Sales showed an upward trend starting July 2018, with a significant 31.6% increase in Q3 2018.
+4️⃣ The Central Region recorded the highest quantity sold (8498 units), followed by the North and South Regions.
+5️⃣ The sub-category Labels had the lowest sales at 5.6K, showing opportunities for improvement.
+
+# Business Questions for Exploration 🤔
+This interactive dashboard answers important business questions, such as:
+
+1.What is the total sales for the Bookcases sub-category?
+2.Which country achieved the highest and lowest sales?
+3.How many orders were recorded in the Central Region?
+4.Who is the most profitable customer?
+5.Which shipping mode had the 2nd highest orders in Q3 2018?
+
+# Technologies Used 🛠️
+*Power BI:* For creating visualizations and interactive dashboards.
+*Power Query Editor:* Used for data cleaning and preparation.
+
+# Conclusion
+This project demonstrates the power of Power BI for visualizing complex business data and generating actionable insights. The dashboard provides a clear picture of SN Corporation's performance and allows users to answer key business questions interactively.
+
+https://app.powerbi.com/view?r=eyJrIjoiYjZlOGRlNzYtY2NhOS00NzliLWJkOGYtMzk0MDBlMTVmOTA1IiwidCI6IjQ5MGEwNjk0LTEzMjUtNDdlNy1hYTU4LWIzZjY4YjdmOTkyYSJ9
