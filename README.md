@@ -21,14 +21,15 @@ Key Insights Derived 🔍
 4️⃣ The Central Region recorded the highest quantity sold (8498 units), followed by the North and South Regions.
 5️⃣ The sub-category Labels had the lowest sales at 5.6K, showing opportunities for improvement.
 
-# Business Questions for Exploration 🤔
-This interactive dashboard answers important business questions, such as:
+# **Sample Business Questions to Explore**  
 
-1.What is the total sales for the Bookcases sub-category?
-2.Which country achieved the highest and lowest sales?
-3.How many orders were recorded in the Central Region?
-4.Who is the most profitable customer?
-5.Which shipping mode had the 2nd highest orders in Q3 2018?
+Using this dashboard, you can easily answer key business questions such as:  
+
+1. **What are the total sales for the "Bookcases" sub-category?**  
+2. **Which country had the highest sales, and what is the exact amount?**  
+3. **Who is the most profitable customer?**  
+4. **How many sales were recorded in the "Central Region" for Chairs?**  
+5. **Which shipping mode brought in the second-most orders in Q3 2018?**  
 
 # Technologies Used 🛠️
 *Power BI:* For creating visualizations and interactive dashboards.
